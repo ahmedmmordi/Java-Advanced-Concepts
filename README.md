@@ -8,8 +8,8 @@ This repository covers **core, functional, and advanced topics** in Java with ex
 
 Explore each topic by clicking the links below. Each link takes you to the dedicated topic folder with its **README.md** and example Java file:
 
-- [Exception Handling](topics/exception-handling/README.md) – Handle runtime errors gracefully and write robust programs.
-- [Enums](topics/enums/README.md) – Use type-safe constants and advanced enumeration features.
+- [Exception Handling](topics/exception-handling) – Handle runtime errors gracefully and write robust programs.
+- [Enums](topics/enums) – Use type-safe constants and advanced enumeration features.
 
 ---
 
